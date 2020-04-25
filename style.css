@@ -1,0 +1,22 @@
+p{
+    margin-bottom: 12px;
+}
+h1{
+    font-size: 36px;
+    margin-bottom: 0;
+    font-weight: 400;
+}
+h2{
+    font-size: 32px;
+    border-bottom: 1px solid grey;
+    margin-bottom: 8px;
+    font-weight: 400;
+}
+#header{
+    margin-bottom: 32px;
+    text-align: center;
+}
+#footer{
+    margin-top: 64px;
+    text-align: center;
+}
